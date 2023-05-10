@@ -1,4 +1,4 @@
-NWS_STAID,bankfull stage (FT),bankfull discharge (CFS)  ,Site name,USGS_STAID,Notes
+NWS_STAID,bankfull_stage,bankfull_discharge  ,Site_name,USGS_STAID,Notes
 ALKA2,85,141000,"Alsek River near Yakutat, Alaska ",15129000,
 APTA2,7,5814.1,"Anchor River near Anchor Point, Alaska ",15239900,
 CCSA2,19.5,270,"Campbell Creek near Diamond, Alaska",,"NWS gage, no usgs id"
