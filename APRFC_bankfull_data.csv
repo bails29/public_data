@@ -1,45 +1,46 @@
-NWS_STAID,bankfull_stage,bankfull_discharge  ,Site_name,USGS_STAID,Notes
-ALKA2,85,141000,"Alsek River near Yakutat, Alaska ",15129000,
-APTA2,7,5814.1,"Anchor River near Anchor Point, Alaska ",15239900,
-CCSA2,19.5,270,"Campbell Creek near Diamond, Alaska",,"NWS gage, no usgs id"
-CHAA2,11,5815.213793,"Chatanika River at Elliot HWY Bridge, Alaska",,"NWS gage, no usgs id"
-CHRA2,3.3,87,"Chester Creek at Arctic Bld, Alaska",,"NWS gage, no usgs id"
-CJXA2,15,169000,"Kouskokwim River at Crooked Creek, Alaska",,"NWS gage, no usgs id"
-COCA2,13,2015.225183,"Cooper Creek at mouth near Cooper Landing, Alaska ",15261000,
-COOA2,12,8890,"Kenai River at Cooper Landing, Alaska ",15258000,
-CRNA2,12,7200,"Chisana River at Northway Junction, Alaska ",15470000,
-FMMA2*,22,537208.636,"Forty mile River at Mosquito Fork, Alaska",,"NWS gage, no usgs id"
-FMSA2,91,20944.13105,"Forty Mile River at South Fork, Alaska",,"NWS gage, no usgs id"
-FMWA2,12,27943.15036,"Forty Mile River at Westfork, Alaska",,"NWS gage, no usgs id"
-GBDA2,19,7350,"Goodpaster River near Big Delta, Alaska ",15477740,
-GROA2,7,252,"Grouse Creek at Grouse Lake outlet near Seward, Alaska ",15237730,
-HNRA2,14,28100,"Nenana river near Healy, Alaska",15518000,
-ILRA2,71,19400,"Iliamna River near Pedro Bay, Alaska ",15300300,
-KRHA2,62,146666.6667,"Koyukuk River at Hughes, Alaska ",15564900,
-KRKA2,11.7,17500,"Kenai River below mouth of Killey River near Sterling, Alaska ",15266150,
-KUPA2,34,43800,"Kuparuk River near Deadhorse, Alaska ",15896000,
-LSUA2,6,2600,"Little Susitna River near Palmer, Alaska ",15290000,
-MATA2,9,9700,"Matanuska River at Palmer, Alaska ",15284000,
-MCDA2,22.5,5280,"Chena River near Moose Creek Dam, Alaska",15493700,
-MCGA2,19.5,156448.1982,"Kuskokwim River at Mcgrath, Alaska ",15303600,
-MNDA2,8,7870,"Mendenhall River near Auke Bay, Alaska ",15052500,
-MONA2,6.8,1560,"Montana Creek near Montana, Alaska ",15292800,
-MPTA2,8.5,3110,"Trail River near Lawing, Alaska ",15248000,
-SALA2,13,14800,"Salcha River near Salchaket, Alaska ",15484000,
-SHIA2,6,768,"Ship Creek near Anchorage, Alaska ",15276000,
-SIXA2,11,2920,"Sixmile Creek near Hope, Alaska ",15271000,
-SKGA2,25.5,3800,"Skagway River at Skagway, Alaska ",15056100,
-SKLA2,12,14200,"Kenai River below Skilak Lake outlet near Sterling, Alaska ",15266110,
-SRYA2,70.5,2340,"Situk River near Yakutat, Alaska ",15129500,
-STKA2,25,214000,"Stikine River near Wrangell, Alaska ",15024800,
-SXRA2,11.5,24700,"Kenai River at Soldotna, Alaska ",15266300,
-TAFA2,23.5,69300,"Tanana River at Fairbanks, Alaska ",15485500,
-TKUA2,42,78300,"Taku River near Juneau, Alaska ",15041200,
-TRTA2,10.5,27500,"Talkeetna River near Talkeetna, Alaska ",15292700,
-TSGA2,16,39000,"Tanana River near Tanacross, Alaska",15476000,
-TYAA2,16,4750,"Taiya River near Skagway, Alaska ",15056210,
-UCHA2,18.5,4830,"Chena River near Two Rivers, Alaska ",15493000,
-WILA2,9,1925.635714,"Willow creek at Parks Highway, Alaska",,"NWS gage, no usgs id"
-WLWA2,5,3310,"Willow Creek near Willow, Alaska ",15294005,
-YEAA2,31,455000,"Yukon River at Eagle, Alaska ",15356000,
-YLKA2,19,51007.2,"Yentna River at Lake Creek, Alaska",,"NWS gage, no usgs id"
+NWS_STAID,bankfull_stage,bankfull_discharge,Site_name,USGS_STAID,Notes,lat,Lon
+ALKA2,85,141000,"Alsek River near Yakutat, Alaska ",15129000,"",59.395,-138.081944
+APTA2,7,5814.1,"Anchor River near Anchor Point, Alaska ",15239900,"",59.747222,-151.753056
+CCSA2,19.5,270,"Campbell Creek near Diamond, Alaska","","NWS gage, no usgs id",61.139444,149.923333
+CHAA2,11,5815.213793,"Chatanika River at Elliot HWY Bridge, Alaska","","NWS gage, no usgs id",65.085278,147.721667
+CHRA2,3.3,87,"Chester Creek at Arctic Bld, Alaska","","NWS gage, no usgs id",61.205278,149.895278
+CJXA2,15,169000,"Kouskokwim River at Crooked Creek, Alaska","","NWS gage, no usgs id",61.869444,-158.111389
+COCA2,13,2015.225183,"Cooper Creek at mouth near Cooper Landing, Alaska ",15261000,"",60.483889,-149.880278
+COOA2,12,8890,"Kenai River at Cooper Landing, Alaska ",15258000,"",60.492778,-149.807778
+CRNA2,12,7200,"Chisana River at Northway Junction, Alaska ",15470000,"",63.006389,-141.804722
+FMMA2,22,537208.636,"Forty mile River at Mosquito Fork, Alaska","","NWS gage, no usgs id",64.066111,141.997222
+FMSA2,91,20944.13105,"Forty Mile River at South Fork, Alaska","","NWS gage, no usgs id",64.057778,141.767222
+FMWA2,12,27943.15036,"Forty Mile River at Westfork, Alaska","","NWS gage, no usgs id",63.889444,142.232222
+GBDA2,19,7350,"Goodpaster River near Big Delta, Alaska ",15477740,"",64.450556,-144.942222
+GROA2,7,252,"Grouse Creek at Grouse Lake outlet near Seward, Alaska ",15237730,"",60.198333,-149.373333
+HNRA2,14,28100,"Nenana river near Healy, Alaska",15518000,"",63.854167,148.955556
+ILRA2,71,19400,"Iliamna River near Pedro Bay, Alaska ",15300300,"",59.758611,-153.844722
+KRHA2,62,146666.6667,"Koyukuk River at Hughes, Alaska ",15564900,"",66.045556,-154.261667
+KRKA2,11.7,17500,"Kenai River below mouth of Killey River near Sterling, Alaska ",15266150,"",60.491111,-150.630556
+KRKA2,11.7,17500,"Kenai River below mouth of Killey River near Sterling, Alaska ",15266150,"",60.491111,150.630556
+KUPA2,34,43800,"Kuparuk River near Deadhorse, Alaska ",15896000,"",70.281667,-148.959722
+LSUA2,6,2600,"Little Susitna River near Palmer, Alaska ",15290000,"",61.710278,-149.229722
+MATA2,9,9700,"Matanuska River at Palmer, Alaska ",15284000,"",61.609167,-149.070833
+MCDA2,22.5,5280,"Chena River near Moose Creek Dam, Alaska",15493700,"",64.800833,147.227778
+MCGA2,19.5,156448.1982,"Kuskokwim River at Mcgrath, Alaska ",15303600,"",62.958333,-155.590278
+MNDA2,8,7870,"Mendenhall River near Auke Bay, Alaska ",15052500,"",58.429722,-134.572778
+MONA2,6.8,1560,"Montana Creek near Montana, Alaska ",15292800,"",62.105278,-150.0575
+MPTA2,8.5,3110,"Trail River near Lawing, Alaska ",15248000,"",60.431944,-149.373056
+SALA2,13,14800,"Salcha River near Salchaket, Alaska ",15484000,"",64.472778,-146.923889
+SHIA2,6,768,"Ship Creek near Anchorage, Alaska ",15276000,"",61.225556,-149.635
+SIXA2,11,2920,"Sixmile Creek near Hope, Alaska ",15271000,"",60.82083,-149.42527
+SKGA2,25.5,3800,"Skagway River at Skagway, Alaska ",15056100,"",59.467222,-135.283333
+SKLA2,12,14200,"Kenai River below Skilak Lake outlet near Sterling, Alaska ",15266110,"",60.466389,-150.601389
+SRYA2,70.5,2340,"Situk River near Yakutat, Alaska ",15129500,"",59.586667,-139.4925
+STKA2,25,214000,"Stikine River near Wrangell, Alaska ",15024800,"",56.708056,-132.130278
+SXRA2,11.5,24700,"Kenai River at Soldotna, Alaska ",15266300,"",60.476667,-151.082222
+TAFA2,23.5,69300,"Tanana River at Fairbanks, Alaska ",15485500,"",64.792778,-147.873056
+TKUA2,42,78300,"Taku River near Juneau, Alaska ",15041200,"",58.538611,-133.7
+TRTA2,10.5,27500,"Talkeetna River near Talkeetna, Alaska ",15292700,"",62.346944,-150.016944
+TSGA2,16,39000,"Tanana River near Tanacross, Alaska",15476000,"",63.379444,143.343611
+TYAA2,16,4750,"Taiya River near Skagway, Alaska ",15056210,"",59.511944,-135.344444
+UCHA2,18.5,4830,"Chena River near Two Rivers, Alaska ",15493000,"",64.902778,-146.356944
+WILA2,9,1925.635714,"Willow creek at Parks Highway, Alaska","","NWS gage, no usgs id",61.766667,150.066667
+WLWA2,5,3310,"Willow Creek near Willow, Alaska ",15294005,"",61.777222,-149.898611
+YEAA2,31,455000,"Yukon River at Eagle, Alaska ",15356000,"",64.789444,-141.197778
+YLKA2,19,51007.2,"Yentna River at Lake Creek, Alaska","","NWS gage, no usgs id",61.900278,150.918056
