@@ -1,2 +1,2 @@
 # public_data
-storage for public data releases
+Storage space for any public data releases. 
